@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 import java.util.*;
-class TcpServer{
+class TcpServer2{
 	public static void main(String[] args) throws Exception
 	{
 		int i=0;

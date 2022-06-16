@@ -1,7 +1,6 @@
 import java.net.*;
-import java.io.*;
 import java.util.*;
-public class UDPServer{
+public class UDPServer2{
 	public static void main(String[] args) throws Exception
 	{
 		DatagramSocket ds=new DatagramSocket(2334);

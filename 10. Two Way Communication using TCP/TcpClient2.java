@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 import java.util.*;
-public class TcpClient{
+public class TcpClient2 {
 	public static void main(String[] args) throws Exception
 	{
 		Scanner scan=new Scanner(System.in);

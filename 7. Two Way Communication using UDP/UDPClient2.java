@@ -1,7 +1,6 @@
 import java.net.*;
-import java.io.*;
 import java.util.*;
-class UDPClient{
+class UDPClient2{
 	public static void main(String[] args) throws Exception
 	{
 		
